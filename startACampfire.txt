@@ -1,1 +1,17 @@
 1 Set up structure
+1.1 Gather materials
+  1.1.1 Gather tinder
+  1.1.2 Gather kindling
+  1.1.3 Gather fuel
+  1.1.4 Fray rope
+1.2 Set up ring
+  1.2.1 Clear area
+  1.2.2 Gather rocks
+  1.2.3 Set up ring
+1.3 Set up water pail
+1.4 Build lean-to structure
+2 Light fire
+2.1 light rope
+2.2 blow on ember
+2.3 add to structure
+2.4 fan and maintain
